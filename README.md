@@ -25,3 +25,5 @@ cd school-management-frontend
 npm install
 
 Run the App - npm run dev
+
+live link : https://rbac-frontend-lw9l.vercel.app/
